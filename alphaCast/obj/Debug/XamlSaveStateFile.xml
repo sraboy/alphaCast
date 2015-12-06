@@ -1,6 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\steve\documents\visual studio 2015\projects\alphacast\alphacast\obj\debug\intermediatexaml\alphacast.exe" HashGuid="a7e8cbfd-544a-8a28-4fd6-93e5f4133013" />
-    <ReferenceAssembly PathName="c:\users\steve\documents\visual studio 2015\projects\alphacast\packages\newtonsoft.json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="86223907-5808-be51-71b4-c872f8140e29" />
+    <ReferenceAssembly PathName="e:\programming\githubvisualstudio\alphacast\packages\newtonsoft.json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="86223907-5808-be51-71b4-c872f8140e29" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>
